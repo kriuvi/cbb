@@ -1,4 +1,4 @@
-# Content Based Backup
+# Content Based Backup (cbb)
 # Copyright 2020 Vira Kriukova
 
 SHELL = bash
